@@ -4779,6 +4779,7 @@ ul {
   grid-gap: 20px;
   grid-auto-rows: -webkit-max-content;
   grid-auto-rows: max-content;
+  justify-items: center;
 }
 
 .products-wrap .products-item {
